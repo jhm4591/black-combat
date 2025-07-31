@@ -40,7 +40,7 @@
 ---
 
 ## 📁 폴더 구조
-
+```
 black-combat/
 ├── index.html
 ├── characters.html
@@ -53,7 +53,7 @@ black-combat/
 │   ├── main.js
 │   └── animation.js
 └── images/
-
+```
 
 ---
 
