@@ -40,19 +40,24 @@
 ---
 
 ## 📁 폴더 구조
+
 ```
-black-combat/
-├── index.html
-├── characters.html
-├── about.html
+project-root/
 ├── css/
-│   ├── reset.css
-│   ├── style.css
-│   └── animations.css
+│   ├── company.css
+│   ├── ranking.css
+│   ├── rules.css
+│   └── style.css
+├── images/
 ├── js/
-│   ├── main.js
-│   └── animation.js
-└── images/
+│   ├── javass.js
+│   ├── ranking.js
+│   └── rules.js
+├── company.html
+├── event.html
+├── index.html
+├── ranking.html
+└── rules.html
 ```
 
 ---
