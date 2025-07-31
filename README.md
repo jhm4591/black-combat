@@ -46,13 +46,14 @@ black-combat/
 ├── characters.html
 ├── about.html
 ├── css/
-│ ├── reset.css
-│ ├── style.css
-│ └── animations.css
+│   ├── reset.css
+│   ├── style.css
+│   └── animations.css
 ├── js/
-│ ├── main.js
-│ └── animation.js
+│   ├── main.js
+│   └── animation.js
 └── images/
+
 
 ---
 
