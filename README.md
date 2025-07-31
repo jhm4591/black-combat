@@ -43,21 +43,21 @@
 
 ```
 project-root/
+├── company.html
+├── event.html
+├── index.html
+├── ranking.html
+├── rules.html
 ├── css/
 │   ├── company.css
 │   ├── ranking.css
 │   ├── rules.css
 │   └── style.css
-├── images/
 ├── js/
 │   ├── javass.js
 │   ├── ranking.js
 │   └── rules.js
-├── company.html
-├── event.html
-├── index.html
-├── ranking.html
-└── rules.html
+├── images/
 ```
 
 ---
